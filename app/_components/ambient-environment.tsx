@@ -2,7 +2,7 @@
 
 import { useEffect, useRef, useState } from "react";
 import type { AnimationEvent, PointerEvent } from "react";
-import "./ambient-environment.css";
+//import "./ambient-environment.css";
 
 type Season = "spring" | "summer" | "autumn" | "winter";
 type Mode = "day" | "irl" | "night";
